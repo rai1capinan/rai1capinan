@@ -1,16 +1,93 @@
-## Hi there 👋
+## 👨🏾‍💻 Bem-vindo(a) ao perfil de Raí
+**`Estudante de Desenvolvimento de Sistemas`**
 
-<!--
-**rai1capinan/rai1capinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Sou estudante do técnico em Desenvolvimento de Sistemas no Senac, com foco em lógica, organização e construção de soluções práticas. Gosto de transformar problemas em código bem estruturado, priorizando clareza, eficiência e evolução contínua. Estou desenvolvendo minha base com visão estratégica, buscando crescer na área de tecnologia com consistência e mentalidade de longo prazo.
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas
+<div align="justify">
+  <img src="https://github-readme-stats.vercel.app/api?username=rai1capinan
+&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rai1capinan
+&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br>
+
+### 🤖 Linguagens e Tecnologias
+<div style="display: inline_block"><br>  
+  <img 
+    align="center" 
+    alt="HTML" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img 
+    align="center" 
+    alt="CSS" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img 
+    align="center" 
+    alt="Js" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img 
+    align="center" 
+    alt="CSharp" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img 
+    align="center" 
+    alt=".NET MAUI" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img 
+    align="center" 
+    alt="XML" 
+    height="30"
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-plain.svg">
+   <img 
+     align="center" 
+     alt="SQL" 
+     height="30" 
+     width="40" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img 
+    align="center" 
+    alt="Git" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img 
+    align="center" 
+    alt="Figma" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
+</div>
+  
+  ##
+ 
+<div>  
+  <a href = "mailto:rcapinan978@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+      target="_blank">
+  </a>
+  
+  <a href="[https://www.linkedin.com/in/rai1capinan/](https://www.linkedin.com/in/ra%C3%AD-capinan-5b3a86264/)" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      target="_blank">
+  </a> 
+</div>
