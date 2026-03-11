@@ -2,8 +2,10 @@
 **`Estudante de Desenvolvimento de Sistemas`**
 
 <p>
-  Sou estudante do técnico em Desenvolvimento de Sistemas no Senac, com foco em lógica, organização e construção de soluções práticas. Gosto de transformar problemas em código bem estruturado, priorizando clareza, eficiência e evolução contínua. Estou desenvolvendo minha base com visão estratégica, buscando crescer na área de tecnologia com consistência e mentalidade de longo prazo.
-</p>
+ Sou estudante do curso técnico em Desenvolvimento de Sistemas pelo Senac. Tenho grande interesse em programação, lógica e na criação de soluções que resolvam problemas de forma prática e organizada.
+
+Gosto de transformar ideias e desafios em código claro e bem estruturado, sempre buscando aprender mais e evoluir minhas habilidades técnicas. Estou construindo minha base na área de tecnologia com foco em crescimento constante, disciplina e visão de longo prazo, buscando me desenvolver cada vez mais como desenvolvedor.
+
 
 <br>
 
