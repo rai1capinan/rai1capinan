@@ -85,9 +85,8 @@ Gosto de transformar ideias e desafios em código claro e bem estruturado, sempr
       target="_blank">
   </a>
   
-  <a href="[https://www.linkedin.com/in/ra%C3%AD-capinan-5b3a86264/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      target="_blank">
-  </a> 
+ <a href="https://www.linkedin.com/in/ra%C3%AD-capinan-5b3a86264/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
