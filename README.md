@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Olá, eu sou o Raí Capinan!
+#  Olá, eu sou o Raí Capinan!
 
 ### `Estudante de Desenvolvimento de Sistemas | Desenvolvedor em formação`
 
@@ -6,24 +6,24 @@ Sou estudante de **Desenvolvimento de Sistemas no Senac**, atualmente construind
 
 Tenho interesse principalmente em **desenvolvimento de software, aplicações web, mobile e backend**, buscando entender não apenas como escrever código, mas também como estruturar sistemas, trabalhar com banco de dados, APIs e criar soluções que realmente resolvam problemas.
 
-🚀 Estou constantemente evoluindo minha base em programação, arquitetura de sistemas e desenvolvimento de aplicações, transformando o que aprendo em projetos práticos.
+ Estou constantemente evoluindo minha base em programação, arquitetura de sistemas e desenvolvimento de aplicações, transformando o que aprendo em projetos práticos.
 
 ---
 
 ## 🧠 Sobre mim
 
-* 🎓 Técnico em **Desenvolvimento de Sistemas — Senac**
-* 💻 Estudando desenvolvimento **Full Stack**
-* 📱 Interesse em desenvolvimento **Web e Mobile**
-* 🔐 Estudando **autenticação, APIs e segurança**
-* 🗄️ Trabalhando com **bancos de dados relacionais**
-* 🧩 Praticando **POO, CRUD, APIs REST e arquitetura de sistemas**
-* 🧪 Interesse em **testes de software e qualidade**
-* 📚 Sempre buscando transformar teoria em projetos práticos
+*  Técnico em **Desenvolvimento de Sistemas — Senac**
+*  Estudando desenvolvimento **Full Stack**
+*  Interesse em desenvolvimento **Web e Mobile**
+*  Estudando **autenticação, APIs e segurança**
+*  Trabalhando com **bancos de dados relacionais**
+*  Praticando **POO, CRUD, APIs REST e arquitetura de sistemas**
+*  Interesse em **testes de software e qualidade**
+*  Sempre buscando transformar teoria em projetos práticos
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 ### Front-end
 
@@ -35,14 +35,14 @@ Tenho interesse principalmente em **desenvolvimento de software, aplicações we
   <img align="center" alt="Bootstrap" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
-### 📱 Mobile
+###  Mobile
 
 <div>
   <img align="center" alt="React Native" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Expo" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg">
 </div>
 
-### ⚙️ Backend
+###  Backend
 
 <div>
   <img align="center" alt="C#" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -50,14 +50,14 @@ Tenho interesse principalmente em **desenvolvimento de software, aplicações we
   <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 
 <div>
   <img align="center" alt="SQL Server" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-### 🔧 Ferramentas
+###  Ferramentas
 
 <div>
   <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -68,7 +68,7 @@ Tenho interesse principalmente em **desenvolvimento de software, aplicações we
 
 ---
 
-## 📚 O que venho estudando
+##  O que venho estudando
 
 ```text
 Programação
@@ -112,21 +112,21 @@ Mobile
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
-### 🔎 CineSearch
+###  CineSearch
 
 Aplicação desenvolvida para pesquisa e consulta de filmes utilizando uma API externa.
 
 **Tecnologias:** JavaScript • HTML • CSS • API REST
 
-### 📋 TaskFlow
+###  TaskFlow
 
 Projeto voltado para gerenciamento de tarefas, trabalhando conceitos de requisitos, desenvolvimento e **triagem de bugs**.
 
 **Conceitos:** CRUD • Requisitos • Testes • Qualidade de Software
 
-### 👁️ Olhuz
+###  Olhuz
 
 Projeto integrador desenvolvido no Senac com foco em **autonomia e acessibilidade para pessoas com baixa visão**.
 
@@ -134,7 +134,7 @@ Projeto integrador desenvolvido no Senac com foco em **autonomia e acessibilidad
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <div align="center">
 
@@ -146,7 +146,7 @@ Projeto integrador desenvolvido no Senac com foco em **autonomia e acessibilidad
 
 ---
 
-## 📈 Minha evolução
+##  Minha evolução
 
 > "Não estou apenas aprendendo linguagens. Estou aprendendo a construir sistemas."
 
@@ -154,7 +154,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor, fortalecendo minha base 
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <div>
   <a href="mailto:rcapinan978@gmail.com">
@@ -170,7 +170,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor, fortalecendo minha base 
 
 <div align="center">
 
-### 👨🏾‍💻 Raí Capinan
+###  Raí Capinan
 
 **Desenvolvimento • Aprendizado • Projetos • Evolução**
 
